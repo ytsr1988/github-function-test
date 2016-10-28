@@ -12,3 +12,5 @@ To test how branch, fork, etc. works.
    C. using github command line.
 
 4. This is in the branch "interesting"
+
+5. This is also in the branch "interesting"
