@@ -2,4 +2,6 @@
 
 To test how branch, fork, etc. works.
 
-In branch-dragonpw now, added this new line by dragonpw.
+1. In branch-dragonpw now, added this new line by dragonpw.
+
+2. In master branch now. Directly change and update to the online repository.
