@@ -21,3 +21,5 @@ Commit is just committing to local repo. You need the sync in the desktop UI or 
 7. Alright, in current desktop github, you can use compare to merge. No need to "pull-request" to merge.
 
 8. You can only request pull after forking the other's repository. By ytsr1988 in a forked branch.
+
+9. 你能读中文吗？ 😄。
